@@ -1,6 +1,6 @@
 # aws-iam-report
 
-Create an AWS IAM Report
+Creating an AWS IAM Report for auditing purpose.
 
 #### Open list_user.py and add the parameters you want it in the report
 
